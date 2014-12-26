@@ -1,0 +1,20 @@
+body {
+	background: #CCC;
+}
+img {
+width: 294px;
+height: 296px;
+border-radius: 50%;
+margin: 10px 50px;
+}
+.usuario {
+	background-color: silver;
+	border: 2px solid black;
+	min-height: 200px;
+}
+
+	.usuario p {
+		color: white;
+		font-size: 30px;
+		text-align: center;
+	}
